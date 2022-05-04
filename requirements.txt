@@ -1,2 +1,3 @@
-gpapi>=0.4.4
+gpapi
+git+https://github.com/Wadeih/googleplay-api@master#egg=gpapi
 pyaxmlparser
