@@ -29,7 +29,7 @@ setup(name='gplaycli',
 			['etc/gplaycli', ['gplaycli.conf']],
 		],
 		install_requires=[
-				'gpapi-auth-fixed @ git+ssh://git@github.com/Wadeih/googleplay-api@master#egg=gpapi-auth-fixed',
+				'gpapi-auth-fixed @ git+https://github.com/Wadeih/googleplay-api@master#egg=gpapi-auth-fixed',
 				'pyaxmlparser',
 		],
 
